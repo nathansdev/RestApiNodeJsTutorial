@@ -1,0 +1,32 @@
+{
+  "name": "myfirstapi",
+  "version": "1.0.0",
+  "description": "test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing api",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathansdev/RestApiNodeJsTutorial.git"
+  },
+  "keywords": [
+    "\"RESTFUL\"",
+    "\"API\"",
+    "\"TUTORIAL\""
+  ],
+  "author": "sabarinathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathansdev/RestApiNodeJsTutorial/issues"
+  },
+  "homepage": "https://github.com/nathansdev/RestApiNodeJsTutorial#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.4"
+  }
+}
